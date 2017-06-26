@@ -152,7 +152,7 @@ chrome.runtime.onMessage.addListener(function(request, sender, sendResponse) {
 			chrome.storage.sync.get({
 				school: ''
 			}, function(items) {
-				chrome.tabs.create({url: 'http://www.thinkhelpdesk.com/' + items.school + '/usr_job.cfm'});
+				chrome.tabs.create({url: 'http://helpdesk/portal' + items.school});
 			});
 		}
 
