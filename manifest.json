@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Think Help Desk",
+  "name": "Dumas ISD Help DESK",
 
-  "description": "This Chrome Extension is built for Think Help Desk Clients, if you do not have Think Help Desk, please contact sales@thinkhelpdesk.",
+  "description": "This Chrome Extension is built for Dumas ISD Help Desk Clients.",
 
   "version": "0.0.0.1",
 
